@@ -8,6 +8,7 @@ db.db-name.find({field-name: {$exists: true}}).forEach(function(obj) {
     obj.field-name = new NumberInt(obj.field-name);
     db.db-name.save(obj);
 });
+```
 
 Convert Integer field to String:
 ```Javascript
@@ -15,3 +16,4 @@ db.db-name.find({field-name: {$exists: true}}).forEach(function(obj) {
     obj.field-name = "" + obj.field-name;
     db.db-name.save(obj);
 });
+```
