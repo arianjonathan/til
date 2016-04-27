@@ -8,3 +8,5 @@ c:\Program Files (x86)\Plex\Plex Media Server>"Plex Media Scanner.exe" --index -
 ```
 
 Item ID can be found by going to the item, Info > XML.
+
+From [Plex Support] (https://support.plex.tv/hc/en-us/articles/201242707-Plex-Media-Scanner-via-Command-Line)
