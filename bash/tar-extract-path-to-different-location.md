@@ -7,7 +7,7 @@ tar -xpvf /opt/nfs/shoppingLogs/ashdod/archive/pcs_201510090800_ashdod.tar.xz 20
 
 Similarly it's pretty trivial and straightforward to extract a tar.xz/tar.gz to a different folder location
 ```bash
-tar -xpvf /opt/nfs/shoppingLogs/ashdod/archive/pcs_201510090800_ashdod.tar.xz -C /home/support/testing
+tar -xpvf /opt/nfs/shoppingremoteLogs/ashdod/archive/pcs_201510090800_ashdod.tar.xz -C /home/support/testing
 ```
 or
 ```bash
