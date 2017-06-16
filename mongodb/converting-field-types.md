@@ -1,4 +1,4 @@
-#Converting Field Types
+# Converting Field Types
 
 mongo shell allows supports Javascript, which allows for nifty things like converting a collection's field type.
 

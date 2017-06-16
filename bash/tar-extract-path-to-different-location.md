@@ -1,4 +1,4 @@
-#Extracting Specified Path to a Different Folder Location
+# Extracting Specified Path to a Different Folder Location
 
 It's pretty trivial to view/extract specific path within a tar.xz/tar.gz file
 ```bash

@@ -1,4 +1,4 @@
-#Refreshing Media Thumbnails and Video Preview
+# Refreshing Media Thumbnails and Video Preview
 
 You can use command line Plex Media Scanner (No option to do this in GUI) to generate/re-generate media thumbnails & fan art as well as video for your media.
 

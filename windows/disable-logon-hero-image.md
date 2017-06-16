@@ -1,4 +1,4 @@
-#Use a Single Color Instead of an Image
+# Use a Single Color Instead of an Image
 
 Rather than seeing a background image whenever you type your password, you can choose to disable the login screen background and see a single, flat-color background — just as Windows 8 and 8.1 used. This requires a quick registry tweak.
 

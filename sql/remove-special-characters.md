@@ -1,4 +1,4 @@
-#Remove Line Breaks in varchar
+# Remove Line Breaks in varchar
 Usage:
 STR\_REPLACE( *string*,*char*,*char replacement* )
 
