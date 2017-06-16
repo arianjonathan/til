@@ -1,4 +1,4 @@
-#Cut: Easily Parse Specific Columns in Delimited Files
+# Cut: Easily Parse Specific Columns in Delimited Files
 
 Using ```cut``` one can easily parse through specific columns in delimited files.
 
